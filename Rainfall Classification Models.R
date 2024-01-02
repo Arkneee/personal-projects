@@ -7,7 +7,7 @@ install.packages("caret")
 install.packages("neuralnet")
 install.packages("gbm")
 
-setwd("~/FIT3152/Assignment 2")
+setwd("~/KaggleCompetitionData")
 rm(list = ls())
 WAUS <- read.csv("HumidPredict2023D.csv")
 L <- as.data.frame(c(1:49))
