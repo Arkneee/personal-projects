@@ -9,7 +9,7 @@
 
 - 📝 I’m looking to continuously learn **in the technology and finance space.**
 
-- 🤝 I engage in various projects, including those crafted for enjoyment like my Snake Game, others showcasing my technical proficiency such as the Movie App, projects reflecting my enthusiasm for finance, and those highlighting my keen interest in data analysis, **my second love.**
+- 🤝 I engage in various projects, including those crafted for enjoyment like my Snake Game, others showcasing my technical proficiency such as the Movie Library App, projects reflecting my enthusiasm for finance, and those highlighting my keen interest in data analysis, **my second love.**
 
 - 👨‍💻 Many of my projects are available **right here in this repo** under the different branches.
 
