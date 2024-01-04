@@ -10,15 +10,15 @@ This project involves analyzing survey data collected during the early stages of
 
 ### Country Comparison
 2. **Focus Country vs All Other Countries:**
-   - Identified the focus country using the provided list.
-   - Analyzed how participant responses in the focus country differ from those in other countries.
-   - Evaluated the predictive power of participant responses for pro-social attitudes in the focus country.
-   - Compared attributes that serve as the strongest predictors for the focus country with other countries.
+   - Chose Russia as the focus country. 
+   - Analyzed how participant responses in Russia differ from those in other countries.
+   - Evaluated the predictive power of participant responses for pro-social attitudes in Russia.
+   - Compared attributes that serve as the strongest predictors for Russia with other countries.
 
 ### Cluster Analysis
-3. **Focus Country vs Cluster of Similar Countries:**
+3. **Russia vs Cluster of Similar Countries:**
    - Identified a cluster of similar countries based on social, economic, health, or political indicators.
-   - Conducted clustering analysis, detailing indicators used and providing a table of values as an Appendix.
+   - Conducted clustering analysis, detailing indicators.
    - Assessed how well participant responses predict pro-social attitudes in the cluster and identified the strongest predictors.
    - Compared results with the analysis of all other countries.
 
