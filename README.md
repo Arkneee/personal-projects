@@ -52,10 +52,9 @@ This project involves creating and analyzing a dataset related to humidity predi
     - Implemented an ANN classifier.
     - Reported performance, commented on attributes, and discussed data pre-processing.
 
-12. **New Classifier Implementation:**
-    - Introduced a new classifier not covered in the course.
+12. **SVM Classifier Implementation:**
+    - Introduced SVM classifier.
     - Provided details on the model, package used, and its performance.
-    - Included a web link to the package details.
 
 ## Conclusion
 This project demonstrates skills in data exploration, pre-processing, model building, evaluation, and investigative analysis. The variety of classifiers and the exploration of new models contribute to a comprehensive understanding of humidity prediction in the dataset.
