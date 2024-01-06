@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a market tracker** for a portfolio of stocks.
 
-- 🌱 I’m currently learning **cloud computing and financial models.**
+- 🌱 I’ve recently begun learning **cloud computing and various financial models.**
 
 - 📝 I’m looking to continuously learn **in the technology and finance space.**
 
