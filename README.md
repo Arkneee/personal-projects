@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a market tracker** for a portfolio of stocks.
 
-- 🌱 I’ve recently begun learning **cloud computing and various financial models.**
+- 🌱 I have a strong interest in **cloud computing, data analysis, management and financial models.**
 
 - 📝 I’m looking to continuously learn **in the technology and finance space.**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **arnie.verma@gmail.com or my LinkedIn**
 
-- ⚡ Fun fact **I love engaging in personal fitness!**
+- ⚡ Fun fact **I love engaging in personal fitness, sports like Formula 1, AFL and the Cricket as well as reading!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
