@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnie-verma&label=Profile%20views&color=0e75b6&style=flat" alt="arnie-verma" /> </p>
 
+- 👨‍💻 My projects are available right here in this GitHub profile, just click **repositories** to see the various project repos.
+  
 - 🔭 I’m currently working on **a market tracker** for a portfolio of stocks.
 
 - 🌱 I have a strong interest in **cloud computing, data analysis, management and financial models.**
@@ -10,8 +12,6 @@
 - 📝 I’m looking to continuously learn **in the technology and finance space.**
 
 - 🤝 I engage in various projects, including those crafted for enjoyment like my Snake Game, others showcasing my technical proficiency such as the Movie Library App, projects reflecting my enthusiasm for finance, and those highlighting my keen interest in data analysis, **my second love.**
-
-- 👨‍💻 Many of my projects are available right here in this GitHub profile, just click **repositories** to see the various project repos.
 
 - 💬 Ask me about the startup I am working on called **Compatible**
 
