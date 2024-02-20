@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnie-verma&label=Profile%20views&color=0e75b6&style=flat" alt="arnie-verma" /> </p>
 
-- 👨‍💻 My projects are available right here in this GitHub profile, just click **repositories** to see the various project repos.
+- 👨‍💻 My projects are available right here in this GitHub profile, just click on my **profile (https://github.com/Arnie-Verma)** to see the various project repos. 
   
 - 🔭 I’m currently working on **a market tracker** for a portfolio of stocks.
 
